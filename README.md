@@ -1,4 +1,4 @@
-![Home Page](Screenshot from 2024-03-18 23-38-10.png)
+![Home Page](Homepage.png)
 
 # Live Weather Prediction App
 
